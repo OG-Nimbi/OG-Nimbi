@@ -1,11 +1,12 @@
+## About Me
 My name is Joshua Lewis.
 
 I'm a disabled self-taught developer and graphic designer.
 
-### Skills
+## Skills
 [![][Skills]][Icons]
 
-### Platforms
+## Platforms
 [![][Platforms]][Icons]
 
 [Icons]: https://skillicons.dev
