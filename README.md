@@ -1,12 +1,18 @@
-## About Me
-
 My name is Joshua Lewis.
 
-I'm a disabled self-taught developer and graphic designer. My specialties are Windows and Linux development.
+I'm a disabled self-taught developer and graphic designer.
 
-I have experience with the following languages and libraries.
+### Skills
+[![][Skills]][Icons]
 
-![](https://skillicons.dev/icons?i=js,html,css,python,java,go,c#)
+### Platforms
+[![][Platforms]][Icons]
+
+[Icons]: https://skillicons.dev
+[Skills]: https://skillicons.dev/icons?i=js,html,css,python,java,go,c#
+[Platforms]: https://skillicons.dev/icons?i=windows,linux,debian,mint
+
+
 
 <!--
 **Darkwater409/Darkwater409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
