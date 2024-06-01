@@ -6,7 +6,7 @@ I'm a disabled self-taught developer and graphic designer. My specialties are Wi
 
 I have experience with the following languages and libraries.
 
-`java` `javascript` `python` `typescript` `go` `html` `c++` `css` `C#` `yaml` `xml`
+![](https://skillicons.dev/icons?i=js,html,css,python,java,go,c#)
 
 <!--
 **Darkwater409/Darkwater409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
