@@ -9,9 +9,13 @@ I'm a disabled self-taught developer and graphic designer.
 ## Platforms
 [![][Platforms]][Icons]
 
+## Tools
+[![][Tools]][Icons]
+
 [Icons]: https://skillicons.dev
-[Skills]: https://skillicons.dev/icons?i=js,html,css,python,java,go,c#
-[Platforms]: https://skillicons.dev/icons?i=windows,linux,debian,mint
+[Skills]: https://skillicons.dev/icons?i=cpp,c,cs,css,html,java,nodejs,discordjs,typescript,python,go,docker,bash,powershell,git&perline=5
+[Platforms]: https://skillicons.dev/icons?i=windows,linux,debian,mint&perline=5
+[Tools]: https://skillicons.dev/icons?i=vscode,idea,phpstorm&perline=5
 
 
 
