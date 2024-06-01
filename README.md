@@ -1,4 +1,12 @@
-## Hi there 👋
+## About Me
+
+My name is Joshua Lewis.
+
+I'm a disabled self-taught developer and graphic designer. My specialties are Windows and Linux development.
+
+I have experience with the following languages and libraries.
+
+`java` `javascript` `python` `typescript` `golang` `html` `c++` `css` `C#` `yaml` `xml`
 
 <!--
 **Darkwater409/Darkwater409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
