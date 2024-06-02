@@ -1,7 +1,7 @@
 ## About Me
 My name is Joshua Lewis.
 
-I'm a disabled self-taught developer and graphic designer.
+I'm a disabled self-taught hobbyist developer and graphic designer.
 
 My original account got falsely terminated after years of running it, and I don't trust the support team enough to bother appealing it. So, this is my new account.
 
