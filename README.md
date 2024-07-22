@@ -3,6 +3,8 @@ My name is Joshua Lewis.
 
 I'm a disabled self-taught hobbyist developer and graphic designer.
 
+I enjoy building discord bots, webapps, and visual styles.
+
 ## Skills
 [![][Skills]][Icons]
 
