@@ -1,4 +1,5 @@
 ## About Me
+![2018-11-21 16 53 02][2018-11-21 16 53 02]
 My name is Joshua Lewis.
 
 I'm a disabled self-taught hobbyist developer and graphic designer.
@@ -21,7 +22,7 @@ You can find my projects in my github pages website at [The Back Room][TheBackRo
 [Platforms]: https://skillicons.dev/icons?i=windows,linux,debian,mint&perline=5
 [Tools]: https://skillicons.dev/icons?i=vscode,idea,phpstorm&perline=5
 [TheBackRoom]: https://the-back-room.github.io/
-
+[2018-11-21 16 53 02]: https://github.com/user-attachments/assets/53e9f655-d046-4ef5-bae8-499eab583c29
 
 
 <!--
