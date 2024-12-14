@@ -5,7 +5,7 @@ I'm a disabled self-taught hobbyist developer and graphic designer.
 
 I enjoy building discord bots, webapps, and visual styles.
 
-You can find my projects in my team page at [The Back Room][TheBackRoom]
+You can find my projects in my github pages website at [The Back Room][TheBackRoom]
 
 ## Skills
 [![][Skills]][Icons]
@@ -20,7 +20,7 @@ You can find my projects in my team page at [The Back Room][TheBackRoom]
 [Skills]: https://skillicons.dev/icons?i=cpp,c,cs,css,html,java,nodejs,discordjs,typescript,python,go,docker,bash,powershell,git&perline=5
 [Platforms]: https://skillicons.dev/icons?i=windows,linux,debian,mint&perline=5
 [Tools]: https://skillicons.dev/icons?i=vscode,idea,phpstorm&perline=5
-[TheBackRoom]: https://github.com/The-Back-Room
+[TheBackRoom]: https://the-back-room.github.io/
 
 
 
