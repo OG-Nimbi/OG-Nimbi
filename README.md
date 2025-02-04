@@ -1,5 +1,4 @@
 ## About Me
-![2018-11-21 16 53 02][2018-11-21 16 53 02]
 My name is Joshua Lewis.
 
 I'm a disabled self-taught hobbyist developer and graphic designer.
